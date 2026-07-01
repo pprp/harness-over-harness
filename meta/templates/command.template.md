@@ -1,7 +1,7 @@
 <!--
 模板：Slash Command（简单、线性、靠提示词即可描述的可复用流程）。
 用法：在目标项目 commands/<command-name>.md 创建。
-判断是否该用 Command 而非 Skill：见 harness-over-harness/GUIDE/orchestration.md 第 3 节。
+判断是否该用 Command 而非 Skill：见 harness-over-harness/meta/GUIDE/orchestration.md 第 3 节。
 -->
 ---
 name: {{command-name}}

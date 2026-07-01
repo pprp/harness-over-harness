@@ -1,7 +1,7 @@
 <!--
 模板：Skill 封装（复杂、可复用、按需披露的专业流程）。
 用法：在目标项目 skills/<skill-name>/ 下创建 SKILL.md。需要脚本/资源就放同目录。
-判断是否该用 Skill 而非 Command：见 harness-over-harness/GUIDE/orchestration.md 第 3 节。
+判断是否该用 Skill 而非 Command：见 harness-over-harness/meta/GUIDE/orchestration.md 第 3 节。
 description 决定 agent 能否"自动发现"该 skill，务必写清触发场景与关键词。
 -->
 ---

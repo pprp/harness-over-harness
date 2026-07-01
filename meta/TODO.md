@@ -8,7 +8,13 @@
 - [ ] 等待下一个真实任务：被要求为某个目标项目搭建 harness。
 
 ## 待办（Next，按优先级）
-- [ ] 收集 ≥3 个业界优秀 harness 仓库的真实结构，丰富 `references/`（目前为方法论提炼，待补具体仓库案例）。
+- [ ] 🔴 落地 OpenSpec 经验 1-3（见 `references/openspec-comparison.md` 与 `ideas.md`）：
+  - [ ] 三态分离记忆结构 → 改进 `TODO.template.md`（现状/进行中/归档分区）。
+  - [ ] Delta 式规则变更栏位 → 改进 `LOG.template.md`。
+  - [ ] 机械化 `verify-harness` 自检命令/skill。
+- [ ] 🟡 双档位工作流分流 → `GUIDE/harness-construction.md` 顶部加"档位选择"。
+- [ ] 🟡 可验证写法（GIVEN-WHEN-THEN / SHALL）→ `templates/AGENTS.template.md`。
+- [ ] 收集 ≥3 个业界优秀 harness 仓库的真实结构，丰富 `references/`（OpenSpec 已完成 1 个）。
 - [ ] 在真实为某项目搭过一次 harness 后，回流改进 `GUIDE/harness-construction.md` 与 `templates/`。
 - [ ] 视情况把"搭建 harness"本身沉淀为一个 skill（当前以 GUIDE 形式存在，重复多次后再考虑封装）。
 

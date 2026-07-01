@@ -4,6 +4,12 @@
 > 一手来源：OpenAI、Anthropic、Stripe、LangChain、Mitchell Hashimoto 等团队的公开实践（2026）。
 > 抓取/整理日期：2026-06-24。外部内容会变，引用请以原文为准。
 
+## 索引
+| 文件 | 主题 | 摘要 |
+|------|------|------|
+| 本文件 | Harness Engineering 方法论 | `Agent = Model + Harness` 与十大实践提炼 |
+| `openspec-comparison.md` | OpenSpec 设计调研与对比 | 同类框架 OpenSpec 的三态分离/Delta/三层验证等设计，及可吸取的 5 条改进经验 |
+
 ---
 
 ## 0. 核心范式：`Agent = Model + Harness`
